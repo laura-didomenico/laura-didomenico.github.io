@@ -11,8 +11,21 @@ author_profile: true
 
 {% include base_path %}
 
+<h2 id="publications"> Latest publications </h2>
+<ol reversed="">
+
+<li><a href="https://doi.org/10.1038/s41467-026-68557-3">
+Mobility-driven synthetic contact matrices as a scalable solution for real-time pandemic response modeling.</a>
+Di Domenico L, Bosetti P, Sabbatini CE, Opatowski L & Colizza V.
+<strong>Nature Commun (2026)</li>
+  
+<li><a href="https://doi.org/10.1038/s43856-025-01282-y">
+Individual and neighborhood based socioeconomic factors relevant for contact behaviour and epidemic control.</a>
+Di Domenico L, Reichmuth ML, Althaus CL.
+<strong>Commun Med 6, 26 (2026)</li>
+
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
