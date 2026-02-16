@@ -20,4 +20,5 @@ Education
 - Master Degree in Mathematics for Life and Data Sciences, University of Trento, 2019
 - Bachelor Degree in Mathematics, University of Trento, 2017
 
+
 _This website is currently under development. More to come soon!_
