@@ -11,11 +11,14 @@ I am a postdoctoral researcher at the Data Science Institute, [Hasselt Universit
 
 Research interests
 ------
+- model-data integration of disease dynamics and human behavior <br>
+  [Nature 2021](https://doi.org/10.1038/s41586-020-03095-6 ), [Nat Comms 2026](https://doi.org/10.1038/s41467-026-68557-3)
+- generalized social contact matrices <br>
+  [Commun Med 2026](https://doi.org/10.1038/s43856-025-01282-y)
+- impact assessment of NPIs and vaccination strategies <br>
+  [Commun Med 2021](https://doi.org/10.1038/s43856-021-00057-5), [Euro Surveill 2021](https://doi.org/10.2807/1560-7917.ES.2021.26.15.2100272), [Inf Dis Modelling 2025](https://doi.org/10.1016/j.idm.2024.09.002)
 - modeling for outbreak response <br>
-  [BMC Med 2020](https://link.springer.com/article/10.1186/s12916-020-01698-4), [NatComms 2021](https://www.nature.com/articles/s41467-021-21249-6)
-- model-data integration of disease dynamics and human behavior
-- impact assessment of NPIs and vaccination strategies
-- generalized social contact matrices
+  [BMC Med 2020](https://doi.org/10.1186/s12916-020-01698-4), [NatComms 2021](https://doi.org/10.1038/s41467-021-21249-6)
   
 
 Education
