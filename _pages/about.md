@@ -23,8 +23,10 @@ Research interests
 
 Education
 ------
-- PhD in Epidemiology and Public Health, Sorbonne Université, 2022
-- Master Degree in Mathematics for Life and Data Sciences, University of Trento, 2019
+- PhD in Epidemiology and Public Health, Sorbonne Université, 2022 <br>
+  [PhD dissertation](https://theses.hal.science/tel-04067114)
+- Master Degree in Mathematics for Life and Data Sciences, University of Trento, 2019 <br>
+  [Master thesis](https://doi.org/10.1103/PhysRevResearch.6.023265)
 - Bachelor Degree in Mathematics, University of Trento, 2017
 
 <div style="margin-top: 2em;"></div>
