@@ -11,8 +11,12 @@ I am a postdoctoral researcher at the Data Science Institute, [Hasselt Universit
 
 Research interests
 ------
-- data-driven modeling of human behavior and disease dynamics
-- pandemic preparedness and response
+- modeling for outbreak response
+  [BMC Med 2020](https://link.springer.com/article/10.1186/s12916-020-01698-4), [NatComms 2021](https://www.nature.com/articles/s41467-021-21249-6)
+- model-data integration of disease dynamics and human behavior
+- impact assessment of NPIs and vaccination strategies
+- generalized social contact matrices
+  
 
 Education
 ------
